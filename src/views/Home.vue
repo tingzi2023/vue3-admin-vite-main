@@ -33,7 +33,7 @@
     <el-col :xs="24" :sm="12" :md="6">
       <el-card shadow="never">
         <template #header>
-          <span class="left">黄晓明</span>
+          <span class="left">郭一帆</span>
           <span class="right card-header-label orange">周</span>
         </template>
         <div class="card-body">
