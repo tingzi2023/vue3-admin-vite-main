@@ -24,7 +24,7 @@
         <div class="card-body">
           <span class="num">2542</span>
           <div class="flex-justify-between bottom">
-            <span>杨幂</span>
+            <span>贾少峰</span>
             <span>14365</span>
           </div>
         </div>
