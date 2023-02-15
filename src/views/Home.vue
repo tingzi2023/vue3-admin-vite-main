@@ -18,13 +18,13 @@
     <el-col :xs="24" :sm="12" :md="6">
       <el-card shadow="never">
         <template #header>
-          <span class="left">下载量</span>
+          <span class="left">肖战</span>
           <span class="right card-header-label blue">月</span>
         </template>
         <div class="card-body">
           <span class="num">2542</span>
           <div class="flex-justify-between bottom">
-            <span>总下载量</span>
+            <span>杨幂</span>
             <span>14365</span>
           </div>
         </div>
@@ -33,7 +33,7 @@
     <el-col :xs="24" :sm="12" :md="6">
       <el-card shadow="never">
         <template #header>
-          <span class="left">成交数</span>
+          <span class="left">黄晓明</span>
           <span class="right card-header-label orange">周</span>
         </template>
         <div class="card-body">
@@ -48,7 +48,7 @@
     <el-col :xs="24" :sm="12" :md="6">
       <el-card shadow="never">
         <template #header>
-          <span class="left">收藏数</span>
+          <span class="left">赵丽颖</span>
           <span class="right card-header-label purple">日</span>
         </template>
         <div class="card-body">
