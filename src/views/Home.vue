@@ -39,7 +39,7 @@
         <div class="card-body">
           <span class="num">1434</span>
           <div class="flex-justify-between bottom">
-            <span>总成交数</span>
+            <span>王佐才</span>
             <span>1455</span>
           </div>
         </div>
